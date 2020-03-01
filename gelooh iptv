@@ -1,0 +1,355 @@
+#EXTM3U
+#EXTINF:-1,shopee
+http://203.153.218.26:9981/stream/channelid/1446651279?ticket=CC317AF18F254D5820CE85F4F8B4DC481312D685&profile=pass.m3u8
+#EXTINF:-1,indosiar online2
+http://id1.indostreamingtv.com/live/indosiar/index.m3u8
+#EXTINF:-1,sctv online
+http://id1.indostreamingtv.com/live/sctv/index.m3u8
+#EXTINF:-1,Mnctv online2
+http://id6.indostreamingtv.com/live/mnctv/index.m3u8
+#EXTINF:-1,Mnctv h24
+https://livetvhooq.akamaized.net/3127bcd58c9149b298b664b1ec828285/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1536005897~exp=9007200790746888~acl=/3127bcd58c9149b298b664b1ec828285/*/profile_0/chunklist.m3u8*~hmac=99928fa4d986fe186b165d47ed653d126327c06e772b228dbf2b4387beda9502
+#EXTINF:-1,MNCTV HD
+https://live.rctiplus.id/rctiplus/mnctv_720p.m3u8
+#EXTINF:-1,Transtv online
+http://id2.indostreamingtv.com/live/tv33/index.m3u8
+#EXTINF:-1,Trans TV FHD 
+https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
+#EXTINF:-1,Trans7 online
+http://id2.indostreamingtv.com/live/trans7/index.m3u8
+#EXTINF:-1,Trans 7 FHD
+https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
+#EXTINF:-1,RCTI(H.264)
+https://livetvhooq.akamaized.net/d182c52b34984076be9817e526e2bb5e/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1536005902~exp=9007200790746893~acl=/d182c52b34984076be9817e526e2bb5e/*/profile_0/chunklist.m3u8*~hmac=d3f38106d3b48f97b8cd3ff97e7e6d25a3f843a0875815c231a14b29bdd3ef34
+#EXTINF:-1,RCTI hd
+https://live.rctiplus.id/rctiplus/rcti_720p.m3u8
+#EXTINF:0,RCTI SPORT
+http://edge.okezone.com/live/inewsokezone.com.m3u8
+#EXTINF:-1,RctiTube
+https://cdn-livetv6.metube.id/hls/rcti_480/index.m3u8
+#EXTINF:-1,Rcti online2
+http://id6.indostreamingtv.com/live/rcti/index.m3u8
+#EXTINF:-1,Tvone online
+http://id1.indostreamingtv.com/live/tv444/index.m3u8
+#EXTINF:-1,ANTV ONLINE
+http://id2.indostreamingtv.com/live/antv/index.m3u8
+#EXTINF:-1,GTV(H.264)
+https://livetvhooq.akamaized.net/23cf552372cb459795ca683f9cc306d8/ap-southeast-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1536005897~exp=9007200790746888~acl=/23cf552372cb459795ca683f9cc306d8/*/profile_1/chunklist.m3u8*~hmac=41e55cd90f1806ca59b56a1c266cc150ab4d70047b87019fc7db29c07c678d42
+#EXTINF:-1,GTV ONLINE
+http://id6.indostreamingtv.com/live/tv1/index.m3u8
+#EXTINF:-1,GLOBALTV HD
+https://live.rctiplus.id/rctiplus/gtv_720p.m3u8
+#EXTINF:-1,RTV qw
+http://210.210.155.35/session/08fb7806-059c-11e9-9d77-c81f66f89318/qwr9ew/s/s12/01.m3u8
+#EXTINF:-1,Nettv online
+http://id2.indostreamingtv.com/live/nettv/index.m3u8
+#EXTINF:-1,INEWS HD
+https://live.rctiplus.id/rctiplus/inews_720p.m3u8
+#EXTINF:-1,metro tv
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w1739117867_b1492000_sleng.m3u8
+#EXTINF:-1,BERITA SATU 
+http://202.80.222.130/000001/2/ch00000090990000001683/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,JTV 
+http://202.80.222.175/000001/2/ch00000090990000001731/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,TVRI Denpasar
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIbali)/Stream(02)/index.m3u8
+#EXTINF:-1,TVRI online
+http://id1.indostreamingtv.com/live/tvri/index.m3u8
+#EXTINF:-1,TVRI Nasional
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/index.m3u8
+#EXTINF:-1,TVRI Nasional2
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/Stream(04)/index.m3u8
+#EXTINF:-1,TVRI SPORT
+http://210.210.155.35/qwr9ew/s/s107/01.m3u8
+#EXTINF:-1,TVRI Sport HD
+http://203.153.218.26:9981/stream/channelid/1637650880?ticket=B5594F93E61A6DF8FDEB5D63457BE002FD4C72AA&profile=pass
+#EXTINF:-1,DANGDUT
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:dangdutch/playlist.m3u8
+#EXTINF:0,KARAOKE CHANNEL
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/chunklist_b2288000.m3u8
+#EXTINF:-1,MTV HD
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
+#EXTINF:-1,Thairath TV
+https://live.thairath.co.th/trtv2/playlist_480p/index.m3u8
+#EXTINF:1,TRUE4U HD
+http://183.182.100.184/live/true4u/index.m3u
+#EXTINF:-1,HollywoodMovies3 
+http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
+#EXTINF:-1,HollywoodMovies6 
+http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
+#EXTINF:-1,HollywoodMovies11 
+http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
+#EXTINF:-1,kenzie MOVIE 11
+https://aldirect.hls.huya.com/huyalive/30765679-2554414567-10971127025691000832-3048991638-10057-A-0-1_1200.m3u8
+#EXTINF:-1,kenzie MOVIE 12
+https://aldirect.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
+#EXTINF:-1,kenzie MOVIE 15
+https://aldirect.hls.huya.com/huyalive/28466698-2689654432-11551977822981455872-2847687622-10057-A-1525510118-1_1200.m3u8
+#EXTINF:-1,kenzie MOVIE 16
+https://aldirect.hls.huya.com/huyalive/29359996-2689475864-11551210879261343744-2847699104-10057-A-1525430092-1_1200.m3u8
+#EXTINF:-1,kenzie MOVIE 2
+https://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1_1200.m3u8
+#EXTINF:-1,kenzie MOVIE 4
+http://js.hls.huya.com/huyalive/29106097-2689446042-11551082794746642432-2789253870-10057-A-0-1_1200.m3u8
+#EXTINF:-1,kenzie MOVIE 4
+https://aldirect.hls.huya.com/huyalive/29169025-2686221566-11537233775779905536-2789253842-10057-A-1523933708-1_1200.m3u8
+#EXTINF:-1,kenzie MOVIE 6
+http://aldirect.hls.huya.com/huyalive/30765679-2554414705-10971127618396487680-3048991636-10057-A-0-1_1200.m3u8
+#EXTINF:-1,kenzie MOVIE 7
+http://aldirect.hls.huya.com/huyalive/94525224-2460686034-10568566041753944064-2789274542-10057-A-0-1_1200.m3u8
+#EXTINF:-1,kenzie Movie 9
+http://aldirect.hls.huya.com/huyalive/29169025-2686220598-11537229618251563008-2847687556-10057-A-1524043048-1_1200.m3u8
+#EXTINF:-1,kenzie Movie 9
+http://aldirect.hls.huya.com/huyalive/94525224-2579683592-11079656661667807232-2847687574-10057-A-0-1_1200.m3u8
+#EXTINF:-1,Jackie Chan Movies
+http://aldirect.hls.huya.com/huyalive/94525224-2460685722-10568564701724147712-2789253838-10057-A-0-1.m3u8
+#EXTINF:-1,Andy Lau Movies
+http://aldirect.hls.huya.com/huyalive/94525224-2467341872-10597152648291418112-2789274550-10057-A-0-1_1200.m3u8
+#EXTINF:-1,Stephen Chow Movies
+http://aldirect.hls.huya.com/huyalive/94525224-2460685313-10568562945082523648-2789274524-10057-A-0-1.m3u8
+#EXTINF:-1,Jet Lie Movies
+http://js.hls.huya.com/huyalive/94525224-2460686093-10568566295157014528-2789253848-10057-A-0-1.m3u8
+#EXTINF:-1,Cou Yun Fa Movies
+http://aldirect.hls.huya.com/huyalive/94525224-2460685774-10568564925062447104-2789253840-10057-A-0-1_1200.m3u8
+#EXTINF:-1,MYCINEMA 
+http://210.210.155.35/x6bnqe/s/s31/S4/mnf.m3u8
+#EXTINF:-1,HBO HD
+http://203.207.56.228/live/iptv005.m3u8
+#EXTINF:-1,HBO Signature
+http://203.207.56.228/live/iptv006.m3u8
+#EXTINF:-1,BLUEANTEXTREME 
+http://45.126.83.51/dr9445/h/h15/01.m3u8
+#EXTINF:-1,KIXHD 
+http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/01.m3u8
+#EXTINF:-1,CINEMAWORlD 
+http://210.210.155.35/uq2663/h/h04/index2.m3u8
+#EXTINF:-1,THRILL 
+http://210.210.155.35/qwr9ew/s/s34/index.m3u8
+#EXTINF:-1,celestialmovie 
+http://210.210.155.35/qwr9ew/s/s33/index.m3u8
+#EXTINF:-1,KDRAMA 
+http://210.210.155.35/session/315760d4-7c81-11e8-ba87-b82a72d63267/qwr9ew/s/s42/index.m3u8
+#EXTINF:-1,Korea K+ 
+http://210.210.155.35/uq2663/h/h08/index.m3u8
+#EXTINF:-1,AXN 
+http://210.210.155.35:80/session/37ee409e-73b5-11e9-b657-a0899505893d/uq2663/h/h141/01.m3u8
+#EXTINF:-1,&flix 
+http://pockettv.xyz/api/zee.m3u8?c=andflixhd
+#EXTINF:-1,&prive 
+http://pockettv.xyz/api/zee.m3u8?c=andprivehd
+#EXTINF:-1,andflixhd
+http://pockettv.xyz/api/zee.m3u8?c=andflixhd
+#EXTINF:-1,And Pictures HD
+http://pockettv.xyz/api/zee.m3u8?c=andpicshd
+#EXTINF:-1,JGO 
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8
+#EXTINF:-1,American Horrors
+http://170.178.189.66:1935/live/Stream1/playlist.m3u8
+#EXTINF:-1,AnimalPlanet
+https://live.dufree4k.net/02_AnimalPlanet/chunklist.m3u8
+#EXTINF:-1,NatGeoWild
+https://live.dufree4k.net/02_NatPeopleHD_720p/chunklist.m3u8
+#EXTINF:-1,Nat Geo People 
+http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_people/05.m3u8
+#EXTINF:-1,Nat Geo Wild 
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
+#EXTINF:-1,National Geographic  
+http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8
+#EXTINF:-1,POP MUSIK
+http://stream1.ninmedia.tv/popmusik/udp.stream_360p/playlist.m3u8
+#EXTINF:-1,Mix TV
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:mixch/playlist.m3u8
+#EXTINF:-1,deejay tv
+http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/index_600_av-p.m3u8
+#EXTINF:-1,SATKIDS
+http://unirtmp.tulix.tv:1935/sat7kids/sat7kids1/playlist.m3u8
+#EXTINF:-1,Spacetoon 
+http://livecdnh2.tvanywhere.ae/hls/spacetoon/04.m3u8
+#EXTINF:-1,Tom & Jerry (Src-1)
+https://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_high.flv
+#EXTINF:-1,nice bingo
+http://61.58.60.230:9319/live/206.m3u8
+#EXTINF:-1,Baby first
+http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
+#EXTINF:-1,Docurama
+https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/master.m3u8
+#EXTINF:-1,Duck TV 
+http://livecdnh3.tvanywhere.ae/hls/duck/04.m3u8
+#EXTINF:-1,MIAOMI 
+https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/prog_index.m3u8
+#EXTINF:-1,Toon Max TV
+http://210.210.155.35/qwr9ew/s/s50/index2.m3u8
+#EXTINF:-1,DISNEYJUNIORID 
+http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
+#EXTINF:-1,DISNEY tv
+http://aldirect.hls.huya.com/huyalive/29106097-2689406818-11550914328949424128-2789274560-10057-A-1525417691-1_1200.m3u8
+#EXTINF:-1,ANIMAX 
+http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144/index2.m3u8
+#EXTINF:-1,MY KIDS HD
+http://bit.do/Mykids
+#EXTINF:-1,EBS KIDS
+http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
+#EXTINF:-1,Doraemon 
+https://ws.flv.nimo.tv/live/su1599512427553r467469e0bc83c5de73f4d151682fb530_high.flv
+#EXTINF:-1,Ariana TV
+https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/chunklist_w2121902183.m3u8
+#EXTINF:-1,pptv
+http://183.182.100.184/live/pptvthai/chunklist.m3u8
+#EXTINF:-1,CTN
+https://1004597868.rsc.cdn77.org/LS-50041-SIN-5/index.m3u8
+#EXTINF:-1,MYTV
+https://1737081326.rsc.cdn77.org/LS-50041-SIN-6/index.m3u8
+#EXTINF:-1,CNC
+https://1061752280.rsc.cdn77.org/LS-50041-SIN-7/index.m3u8
+#EXTINF:-1,BayonTV
+https://1523926405.rsc.cdn77.org/LS-50041-SIN-8/index.m3u8
+#EXTINF:-1,cctv5 
+http://111.40.205.70/PLTV/88888888/224/3221225591/index.m3u8
+#EXTINF:-1, UFC NETWORK
+http://210.210.155.35/uq2663/h/h05/01.m3u8
+#EXTINF:-1,x Sports
+http://b66dc3b9.kartoshkaka.ru/iptv/SXSTT8UD3QSBQH/996/index.m3u8
+#EXTINF:-1,SporTVL
+http://dcunilive36-lh.akamaihd.net/i/dclive_1@662153/index_150_av-p.m3u8
+#EXTINF:-1,NEWTV Super sports HD
+http://111.40.205.107/PLTV/88888888/224/3221225715/index.m3u8
+#EXTINF:-1,Horizon Sports
+https://a.jsrdn.com/broadcast/22705/+0000/hi/c.m3u8
+#EXTINF:-1,CDO
+http://edge1.cl.grupoz.cl/cdofree/live/chunklist_w822432298.m3u8?GrupoTopIptv
+#EXTINF:-1,Todo Deportes
+http://rtmp.zafra.cloud:1935/securelive/tdcampeones20161/chunklist_w238476960.m3u8
+#EXTINF:-1,Edge Sport
+https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/1920x1080_5628000/index.m3u8
+#EXTINF:-1,FS1 Salzburg
+http://stream.fs1.tv:8080/hls/webstream.m3u8
+#EXTINF:-1,RTSH Sport
+http://79.106.48.2/live/rtsh_sport_ott_p3/playlist.m3u8
+#EXTINF:-1,Sportskool
+https://a.jsrdn.com/broadcast/22697/+0000/hi/c.m3u8
+#EXTINF:-1,TJK TV sport
+http://tjktv.ercdn.net/tjktv.m3u8
+#EXTINF:-1,rtv sport
+https://dlxommsyqo2g0.cloudfront.net/smrtv-ch02/_definst_/smil:ch-02.smil/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1,sport mx
+http://161.0.157.5/PLTV/88888888/224/3221226766/01.m3u8
+#EXTINF:-1,world free sport
+https://a.jsrdn.com/broadcast/22723/+0000/hi/c.m3u8
+#EXTINF:-1,bahrain sport
+http://185.105.4.106:1935/live/Bahrain%20Sports/chunklist.m3u8?v=1548640033
+#EXTINF:-1,racing sport
+https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
+#EXTINF:-1,oman sport
+http://38.96.148.35:1935/live/omantv02/chunklist.m3u8
+#EXTINF:-1,sp orange
+http://130.180.93.142:8001/1:0:19:7dd:9e98:16e:a00000:0:0:0:
+#EXTINF:-1,Ru Sport
+http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v3a1/index.m3u8
+#EXTINF:-1,rus sport
+http://ott-cdn.ucom.am/s41/04.m3u8
+#EXTINF:-1,rus sport
+http://ott-cdn.ucom.am/s41/index.m3u8
+#EXTINF:-1,Setanta Sports 1 
+http://ott-cdn.ucom.am/s81/03.m3u8
+#EXTINF:-1,Setanta Sports 1 
+http://ott-cdn.ucom.am/s81/04.m3u8
+#EXTINF:-1,Setanta Sports 1 
+http://92.43.140.204:80/s81/index.m3u8
+#EXTINF:-1,Setanta Sports 2
+http://92.43.140.200/s82/04.m3u8
+#EXTINF:0,bt sport1
+http://178.159.5.10:1068
+#EXTINF:-1,BeIN Sports 1
+https://www.doofree88.com/streaming/epl-bein1_720/index.m3u8
+#EXTINF:-1,BeIN Sports 2
+https://www.doofree88.com/streaming/epl-bein2_720/index.m3u8
+#EXTINF:-1,Sport HD 1
+https://www.doofree88.com/streaming/hd-tsport1_720/index.m3u8
+#EXTINF:-1,Sport HD 2
+https://www.doofree88.com/streaming/hd-tsport2_720/index.m3u8
+#EXTINF:-1,Sport HD 3
+https://www.doofree88.com/streaming/hd-tsport3_720/index.m3u8
+#EXTINF:-1,Fox Sports 1
+https://www.doofree88.com/streaming/hd-foxsports1_720/index.m3u8
+#EXTINF:-1,Fox Sports 2
+https://www.doofree88.com/streaming/sd-foxsports2_480/index.m3u8
+#EXTINF:-1,Fox Sports 3
+https://www.doofree88.com/streaming/sd-foxsports3_480/index.m3u8
+#EXTINF:-1,Sport 2
+https://www.doofree88.com/streaming/sd-tsport2_480/index.m3u8
+#EXTINF:-1,Sport 5
+https://www.doofree88.com/streaming/sd-tsport5_480/index.m3u8
+#EXTINF:-1,Sport 6
+https://www.doofree88.com/streaming/sd-tsport6_480/index.m3u8
+#EXTINF:-1,Sport 7
+https://www.doofree88.com/streaming/sd-tsport7_480/index.m3u8
+#EXTINF:-1,Skynet Sports 1
+https://www.doofree88.com/streaming/sd-skynetsports1_480/index.m3u8
+#EXTINF:-1,Skynet Sports 2
+https://www.doofree88.com/streaming/sd-skynetsports2_480/index.m3u8
+#EXTINF:-1,Skynet Sports 3
+https://www.doofree88.com/streaming/sd-skynetsports3_480/index.m3u8
+#EXTINF:-1,Skynet Sports 4
+https://www.doofree88.com/streaming/sd-skynetsports4_480/index.m3u8
+#EXTINF:-1,Skynet Sports 5
+https://www.doofree88.com/streaming/sd-skynetsports5_480/index.m3u8
+#EXTINF:-1,Skynet Sports 6
+https://www.doofree88.com/streaming/sd-skynetsports6_480/index.m3u8
+#EXTINF:-1,Skynet Sports HD
+https://www.doofree88.com/streaming/sd-skynetsportshd_720/index.m3u8
+#EXTINF:-1,BT Sport 1 HD
+https://www.doofree88.com/streaming/uk-btsport1hd_720/index.m3u8
+#EXTINF:-1,BT Sport 2 HD
+https://www.doofree88.com/streaming/uk-btsport2hd_720/index.m3u8
+#EXTINF:-1,Sky Sports Premier League
+https://www.doofree88.com/streaming/uk-skysports-epl_720/index.m3u8
+#EXTINF:-1,Sky Sports Mix
+https://www.doofree88.com/streaming/uk-skysports-mix_480/index.m3u8
+#EXTINF:-1,Sky Sports Football
+https://www.doofree88.com/streaming/uk-skysports-football_720/index.m3u8
+#EXTINF:-1,Sky Sports Arena
+https://www.doofree88.com/streaming/uk-skysports-arena_720/index.m3u8
+#EXTINF:-1,Sky Sports Action
+https://www.doofree88.com/streaming/uk-skysports-action_720/index.m3u8
+#EXTINF:-1,SuperSport 1 HD
+https://www.doofree88.com/streaming/al-supersports1_480/index.m3u8
+#EXTINF:-1,SuperSport 2 HD
+https://www.doofree88.com/streaming/al-supersports2_480/index.m3u8
+#EXTINF:-1,SuperSport 3 HD
+https://www.doofree88.com/streaming/al-supersports3_480/index.m3u8
+#EXTINF:-1,SuperSport 4 HD
+https://www.doofree88.com/streaming/al-supersports4_480/index.m3u8
+#EXTINF:-1,SuperSport 5 HD
+https://www.doofree88.com/streaming/al-supersports5_480/index.m3u8
+#EXTINF:-1,ArenaSport 1
+https://www.doofree88.com/streaming/rs-arena1_480/index.m3u8
+#EXTINF:-1,ArenaSport 3
+https://www.doofree88.com/streaming/rs-arena3_480/index.m3u8
+#EXTINF:-1,ArenaSport 4
+https://www.doofree88.com/streaming/rs-arena4_480/index.m3u8
+#EXTINF:-1,Eurosport
+https://www.doofree88.com/streaming/uk-eurosport_480/index.m3u8
+#EXTINF:-1,Eurosport 2
+https://www.doofree88.com/streaming/uk-eurosport2_480/index.m3u8
+#EXTINF:-1,Premier Football HD 1
+https://www.doofree88.com/streaming/epl-x1_720/index.m3u8
+#EXTINF:-1,Premier Football HD 2
+https://www.doofree88.com/streaming/epl-x2_720/index.m3u8
+#EXTINF:-1,Premier Football HD 3
+https://www.doofree88.com/streaming/epl-x3_720/index.m3u8
+#EXTINF:-1,Premier Football HD 4
+https://www.doofree88.com/streaming/epl-x4_720/index.m3u8
+#EXTINF:-1,Premier Football HD 5
+https://www.doofree88.com/streaming/epl-x5_720/index.m3u8
+#EXTINF:-1,RMC Sport 6
+http://78.46.73.89:8000/live/Shooftvplus/Cukhgylc566/366.ts
+#EXTINF:-1,RMC Sport 5
+http://78.46.73.89:8000/live/Shooftvplus/Cukhgylc566/365.ts
+#EXTINF:-1,RMC Sport 4
+http://78.46.73.89:8000/live/Shooftvplus/Cukhgylc566/364.ts
+#EXTINF:-1,RMC Sport 3
+http://78.46.73.89:8000/live/Shooftvplus/Cukhgylc566/363.ts
+#EXTINF:-1,RMC Sport 2
+http://78.46.73.89:8000/live/Shooftvplus/Cukhgylc566/362.ts
+#EXTINF:-1,RMC Sport 1
+http://78.46.73.89:8000/live/Shooftvplus/Cukhgylc566/361.ts
